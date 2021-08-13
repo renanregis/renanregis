@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 I'm Renan Oliveira
 
 [![renanregis's github stats](https://github-readme-stats.vercel.app/api?username=renanregis)](https://github.com/anuraghazra/github-readme-stats)
