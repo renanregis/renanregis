@@ -5,7 +5,7 @@ I'm Renan Oliveira. Father & Husband. Brazilian Software Developer based on Port
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renanregis)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanregis&hide=TeX&layout=compact)
 
-### Listening
+### Now playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=renanctr&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ### How to reach me
