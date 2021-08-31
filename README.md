@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I'm Renan Oliveira
+I'm Renan
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renanregis)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanregis)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanregis&hide=TeX&layout=compact)
 
 ### Listening
