@@ -3,7 +3,6 @@
 I'm Renan
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renanregis)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanregis&hide=TeX&layout=compact)
 
 ### Listening
